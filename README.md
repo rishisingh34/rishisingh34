@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Secure App <br>🌱 I’m currently learning Next js <br>💬 Ask me about Node , React , Express , Mongodb , Redis <br>
+🔭 I’m currently learning Next js <br>💬 Ask me about Node , React , Express , Mongodb , Redis <br>
 
 
 # 💻 Tech Stack:
