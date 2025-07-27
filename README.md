@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently learning Next js <br>💬 Ask me about Node , React , Express , Mongodb , Redis <br>
 
 
